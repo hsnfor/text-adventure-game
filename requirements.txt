@@ -1,0 +1,5 @@
+# Requirements for running the Text-Based Adventure Game
+# This game uses only the Python Standard Library, so no external packages are needed.
+# This file is included for best practices and future compatibility.
+
+python_version >= 3.6
